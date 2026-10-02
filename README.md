@@ -6,6 +6,7 @@
   <img align="center" alt="Gustavo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><br>
 </div>
  <div>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=GustavoMarcello&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoMarcello&layout=compact&langs_count=7&theme=darcula"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=GustavoMarcello&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=GustavoMarcello&layout=compact&langs_count=7&theme=prussian"/>
+  <img align="right" alt="AI-Assistant" height="180" width="180" src="https://img.magnific.com/free-vector/chatbot-chat-message-vectorart_78370-4104.jpg">
 </div>
